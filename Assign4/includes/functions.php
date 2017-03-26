@@ -11,3 +11,5 @@ function load_view($file, $data = []){
 	
 	return $buffer;
 }
+
+
